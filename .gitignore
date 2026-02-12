@@ -1,0 +1,22 @@
+src/build/*
+.vscode/*
+src/main_h4.cpp
+src/main_h5.cpp
+src/main_iblt_h5.cpp
+src/oprf_main.cpp
+src/pround_exps_h5.cpp
+src/softot_main.cpp
+src/trypeel copy.cpp
+src/vole_main.cpp
+src/run-bg-h4.sh
+src/run-bg-h5.sh
+old-or-misc-code/*
+src/psu_main.cpp
+rint.sh
+src/analysis.txt
+src/gmon.out
+src/current_best_local_2^16_runtime
+alt_iblt_h5.cpp
+alt_iblt_h5.hpp
+iblt_h5.cpp
+iblt_h5.hpp
